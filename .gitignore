@@ -108,9 +108,9 @@ modules.xml
 *.ipr
 
 ### Extra pycharm files
-*.idea/misc.xml
-*.idea/vcs.xml
-*.idea/workspace.xml
+scripts/.idea/misc.xml
+scripts/.idea/vcs.xml
+scripts/.idea/workspace.xml
 
 # Sonarlint plugin
 .idea/sonarlint
