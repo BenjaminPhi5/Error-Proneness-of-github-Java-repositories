@@ -1,0 +1,19 @@
+plugins {
+id "net.ltgt.errorprone" version "0.8.1"
+
+}
+dependencies {
+errorprone "com.google.errorprone:error_prone_core:2.3.3"
+
+}
+
+group 'test'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+mavenCentral()
+}
+
+
