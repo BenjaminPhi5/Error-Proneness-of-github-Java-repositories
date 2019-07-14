@@ -1,0 +1,2 @@
+In order to run error-prone on other projects that use gradle,
+the version of gradle must be at least 5.x and the build file must be modified. A sample gradle-wrapper.properties and build.gradle are given
