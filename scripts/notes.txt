@@ -1,0 +1,5 @@
+can do ./gradlew assemble
+before ./gradle build..  i think
+
+where I have to manually do the gradle build, need a python script that starts running after
+custom build stuff is set up.

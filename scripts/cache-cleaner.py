@@ -23,6 +23,3 @@ def gradle_cache_clean():
 
     # close the file
     file_hash_lock.close()
-
-
-gradle_cache_clean()

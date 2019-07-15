@@ -32,6 +32,3 @@ def edit_properties(file_handle):
     file_w.close()
 
     print("done properties edit.")
-
-
-edit_properties("testpropertiesfile.properties")
