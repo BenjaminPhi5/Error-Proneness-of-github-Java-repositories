@@ -260,3 +260,4 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/macos,python,gradle,pycharm
+scripts/.idea/inspectionProfiles/Project_Default.xml

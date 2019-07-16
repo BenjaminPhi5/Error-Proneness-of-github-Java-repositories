@@ -3,3 +3,16 @@ before ./gradle build..  i think
 
 where I have to manually do the gradle build, need a python script that starts running after
 custom build stuff is set up.
+
+
+
+the order that the scripts need to go in:
+
+cache clean
+then clone
+then sort out properties
+then first compile
+then modify the build script
+then second compile
+
+need a script that ties these all into stages and records errors at each stage
