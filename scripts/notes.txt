@@ -8,6 +8,7 @@ custom build stuff is set up.
 
 the order that the scripts need to go in:
 
+remove the repo that was just tested on..? or maybe i can delete them manually.. who knows
 cache clean
 then clone
 then sort out properties
